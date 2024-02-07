@@ -3,3 +3,5 @@
 
 [详细表格在这里](http://111.229.70.160/)
 [english_table](http://111.229.70.160/?lang=en)
+
+<img src="./rank.png" alt="root图片" width="100%">
